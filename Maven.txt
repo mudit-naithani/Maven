@@ -1,0 +1,18 @@
+MAVEN:
+
+Build Lifecycle:
+
+validate
+complile
+test
+package
+verify
+install 
+deploy
+
+Maven coordinates:
+
+group id
+artifact id
+version
+package
